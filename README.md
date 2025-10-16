@@ -8,17 +8,15 @@ meta-cat is a simple tool that replicates the basic functionality of the Unix ca
 
 ### Features
 
-    Reads and prints files to the console
-
-    Handles multiple files in the specified order
-
-    Demonstrates basic file handling and error checking in Linux environment
+- Reads and prints files to the console
+- Handles multiple files in the specified order
+- Demonstrates basic file handling and error checking in Linux environment
 
 ### Usage
 
 meta-cat [file1] [file2] ...
 
-    If no file is specified, it reads from standard input.
+If no file is specified, it reads from standard input.
 
 ### Requirements
 
@@ -29,7 +27,7 @@ meta-cat [file1] [file2] ...
 
 Compile the program using:
 
-~ gcc -o meta-cat meta-cat.c ~
+    gcc -o meta-cat meta-cat.c
 
 ### License
 
