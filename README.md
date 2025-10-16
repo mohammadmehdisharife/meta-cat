@@ -27,7 +27,7 @@ If no file is specified, it reads from standard input.
 
 Compile the program using:
 
-    gcc -o meta-cat meta-cat.c
+    make
 
 ### License
 
